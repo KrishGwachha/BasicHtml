@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    width: 500px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 1cm rgb(201, 199, 199);
+    padding-bottom: 10px;
+}
+
+h1{
+    background-color: rgb(3, 0, 58);
+    text-align: center;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: white;
+}
+
+.menu{
+    text-align: center;
+    margin: 5px;
+}
+
+.menu button{
+    width: 100px;
+    padding: 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.Mh{
+    background-color: blue;
+}
+
+.Mg{
+    background-color: green;
+}
+
+.Mc{
+    background-color: blueviolet;
+}
+
+.home{
+    background-color: rgb(255, 218, 218);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.home h2{
+    color: rgb(189, 0, 0);
+}
+
+.gallery{
+    background-color: rgb(212, 255, 229);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.gallery h2{
+    color: rgb(0, 129, 86);
+}
+
+.gallery img{
+    width: 40%;
+    text-align: center;
+}
+
+.contact{
+    background-color: rgb(203, 217, 255);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact h2{
+    color: rgb(22, 0, 129);
+}
